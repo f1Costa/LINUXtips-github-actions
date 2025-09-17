@@ -23,7 +23,7 @@ jobs:
       # INSIRA AQUI A LÓGICA PARA RODAR OS TESTES E VERIFICAR A COBERTURA
       ###
       ###
-      ###
+      ####
 
       - name: "Setup Node"
         uses: actions/setup-node@v5
